@@ -13,3 +13,6 @@ Atividade:
 - Realizar a estilização do aplicativo com mais widgets do Flutter.  
 
 Obs: Toda a estrutura front-end do projeto está na main principal
+
+
+Data de entrega: 03/10/2025
