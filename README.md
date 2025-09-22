@@ -1,16 +1,15 @@
 # app_fire
 
-A new Flutter project.
 
-## Getting Started
+#Projeto desenvolvido para a turma de TDS do SENAC SOROCABA
 
-This project is a starting point for a Flutter application.
+##Projeto base para de uma lista de tarefas construido com Flutter e backend em nuvem com firebase. 
 
-A few resources to get you started if this is your first Flutter project:
+Atividade:
+- Criar um banco no firestore e conectar ao projeto
+- Verificar a conectividade criando novas tarefas no aplicativo base
+- Adicionar botão em cada tarefa da lista criada para remover a tarefa no Firestore
+- Implementar a atualização de tarefa, por exemplo (conclída, em desenvolvimento, pendente, etc...)
+- Realizar a estilização do aplicativo com mais widgets do Flutter.  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Obs: Toda a estrutura front-end do projeto está na main principal
