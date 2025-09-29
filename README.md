@@ -56,5 +56,5 @@ dependencies:
  ```
 ### Instale os pacotes
  ```bash
-flutter pug get
+flutter pub get
  ```
